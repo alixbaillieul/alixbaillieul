@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alixbaillieul,
 - 👀 I’m interested in operational research and machine learning.
-- 🌱 I’m currently learning data science, theoretical computer science and mathematrics.
+- 🌱 I’m currently learning data science, theoretical computer science and mathematics.
 - 💞️ I’m looking for work experience in those fields.
 - 📫 How to reach me: alixbaillieul@hotmail.fr
 
